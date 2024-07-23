@@ -18,3 +18,6 @@ Didn't use any other repo's.
 ### Licence
 There is no licence for this project.
 
+### Usage 
+This is really easy to use. 
+
