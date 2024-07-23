@@ -4,7 +4,7 @@
 23.07.2024
 
 ### Project Title
-Replace the Project Title
+Udacity's Git course
 
 ### Description
 Describe what your project is about and what it does
