@@ -15,3 +15,6 @@ We used all the cities csv's, aswell as the python source code file.
 ### Credits
 Didn't use any other repo's.
 
+### Licence
+There is no licence for this project.
+
