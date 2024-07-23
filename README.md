@@ -13,5 +13,5 @@ This project is about showing that I know how to use Git and GitHub.
 We used all the cities csv's, aswell as the python source code file. 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Didn't use any other repo's.
 
